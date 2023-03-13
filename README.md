@@ -6,5 +6,8 @@ Forgotten History está realizado bajo un paradigma de programación modular. Es
 El juego está organizado en paquetes de clases relacionadas. Cada una de estas clases posee una serie de funcionalidades y conexiones con otras mediante métodos. Además, se da uso a conceptos fundamentales de la programación modular como encapsulamiento, para restringir la información y así asegurar el acceso, herencia para definir clases que comparten atributos y métodos, y los distintos usos de polimorfismo para hacer uso de la herencia de la mejor manera. También se hizo uso de múltiples librerías de las que Java dispone, las cuales proporcionaban herramientas necesarias para la ejecución del juego. Para poder verificar que el código funcionara se realizaron numerosas pruebas con el uso de JUnit .
 Este juego generará una ola de información y surgirán una variedad de dudas en cada uno de los jugadores  al darse cuenta de que la historia que siempre les han mostrado no es tan acertada como parece, descubrirán un gran bagaje de información nunca antes expuesto y los llevará a cuestionarse por qué la educación se lleva de cierta manera, ocasiona el origen o el desarrollo a la idea de que la mujer es tan capaz como el hombre y se dejará parcialmente de lado el pensamiento machista anticuado de tiempos anteriores.
 
+![image](https://user-images.githubusercontent.com/74154670/224603351-49f35c57-fa81-401f-a9ea-743b318e36a2.png)
+
+
 ## Ilustraciones
 ![image](https://user-images.githubusercontent.com/74154670/224599447-9a639a92-cf12-4269-9d6b-6cf3316ff9f8.png)
